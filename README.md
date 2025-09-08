@@ -21,12 +21,12 @@ Incluye autenticación con **JWT**, encriptación de contraseñas con **bcryptjs
 ## ⚙️ Instalación y ejecución
 
  1. Clonar el repositorio
-# 2. Instalar dependencias
-# 3. Configurar variables de entorno
+ 2. Instalar dependencias
+ 3. Configurar variables de entorno
 
 PORT=4000 MONGO_URI=mongodb://localhost:27017/mi_basededatos JWT_SECRET=mi_secreto_super_seguro
 
-# 4. Compilar y ejecutar en desarrollo
-# 5. Compilar y ejecutar en producción
+ 4. Compilar y ejecutar en desarrollo
+ 5. Compilar y ejecutar en producción
 
 ### Autor: Juan Pablo Rodriguez
