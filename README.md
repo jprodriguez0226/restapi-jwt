@@ -20,7 +20,7 @@ Incluye autenticación con **JWT**, encriptación de contraseñas con **bcryptjs
 
 ## ⚙️ Instalación y ejecución
 
-# 1. Clonar el repositorio
+ 1. Clonar el repositorio
 # 2. Instalar dependencias
 # 3. Configurar variables de entorno
 
