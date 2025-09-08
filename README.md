@@ -29,4 +29,4 @@ PORT=4000 MONGO_URI=mongodb://localhost:27017/mi_basededatos JWT_SECRET=mi_secre
 ### 4. Compilar y ejecutar en desarrollo
 ### 5. Compilar y ejecutar en producción
 
-Autor: Juan Pablo Rodriguez
+### Autor: Juan Pablo Rodriguez
